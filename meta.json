@@ -2,7 +2,7 @@
     "verification":"35443e4331eebba554",
     "how-to-implement": "in your meta.json - define *extended* with url to this (json) file - https://raw.githubusercontent.com/cardanians/cexplorer.io/main/examples/meta.json",
     "info": {
-        "url_png_icon_64x64": "https://images.squarespace-cdn.com/content/v1/5f964cc5e2177643e0165183/1604731188811-A2KICS18LJ0LPH18N21N/KSP+Skyline+FINAL+for+LOGO.png",
+        "url_png_icon_64x64": "https://images.squarespace-cdn.com/content/v1/5f964cc5e2177643e0165183/78f72dac-959f-48bf-85f1-072b9d710f28/KSP+Skyline+FINAL+for+LOGO++-+64x64.png",
         "url_png_logo": "https://images.squarespace-cdn.com/content/v1/5f964cc5e2177643e0165183/1604731188811-A2KICS18LJ0LPH18N21N/KSP+Skyline+FINAL+for+LOGO.png",
         "location": "Kyoto, Japan",
         "social": {
@@ -21,7 +21,7 @@
             "name": "",
             "addr": "",
             "city": "",
-            "country": "",
+            "country": "Singapore",
             "company_id": "",
             "vat_id": ""
         },
